@@ -2,7 +2,4 @@
 Este é meu projeto de site de loja, feito 100% em HTML.
 Por enquanto, ele está só no visual, mas toda a estrutura da loja já está funcionando, pronta para ser expandida futuramente com produtos, links e funcionalidades.
 
-💡 É um portfólio que mostra meu aprendizado em desenvolvimento web e minha dedicação em criar interfaces organizadas e funcionais.
-Explore o site e acompanhe a evolução do projeto!
-
 instagram @vitinet_
